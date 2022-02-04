@@ -1,8 +1,8 @@
 # supplier_info_query
 Create a Database by SQLite and run queries in SQL assisting inventory planning
 
-This project is trying to design a small db for people to search for common info they need on purchase end. 
-For example, as a importer, the company doesn't control production end, Yet knowing the status of our open purchase order provide more flexibility for new customers/distributors order not only for domestic but direct import to other countries. Another example is the accounting guy may want to know how many product left from vendor A, B and C, so he/she can arrange the priority of the payment.
+This project is trying to design a small db for people to search for common info they need from procurement department.
+For example, as a importer in the supply chain, the company doesn't control production end, Yet, knowing the status of our open purchase order provides more flexibility on new customers/distributors order for not only domestic but direct import to other countries. Another example is the accounting specialist, he or she may want to know how many product left from vendor A, B and C, so he/she can arrange the priority of the payment.
 
 ## 1. Entity Relationship Model
 
