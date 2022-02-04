@@ -1,5 +1,5 @@
 # supplier_info_query
-Create a Database by SQLite and run queries in SQL in assist to inventory planning
+Create a Database by SQLite and run queries in SQL assisting inventory planning
 
 This project is trying to design a small db for people to search for common info they need on purchase end. 
 For example, as a importer, the company doesn't control production end, Yet knowing the status of our open purchase order provide more flexibility for new customers/distributors order not only for domestic but direct import to other countries. Another example is the accounting guy may want to know how many product left from vendor A, B and C, so he/she can arrange the priority of the payment.
