@@ -27,4 +27,5 @@ Driver:http://www.ch-werner.de/sqliteodbc/
 
 ![image (6)](https://user-images.githubusercontent.com/93064471/152471380-01b14a0c-3a61-4b6b-8db3-47c70e6d2582.png)
 
+Visualization on Power BI
 ![image (5)](https://user-images.githubusercontent.com/93064471/152471392-2ea7ce77-1e97-47f3-bcff-411201be3c1b.png)
