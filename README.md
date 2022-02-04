@@ -20,5 +20,6 @@ For example, as a importer, the company doesn't control production end, Yet know
 ![image (4)](https://user-images.githubusercontent.com/93064471/152471371-7021b91a-403a-4415-861d-d07d65eed203.png)
 
 ## 5. Download ODBC driver and setup DSN for further analytics and visualization.
+Driver:http://www.ch-werner.de/sqliteodbc/
 ![image (6)](https://user-images.githubusercontent.com/93064471/152471380-01b14a0c-3a61-4b6b-8db3-47c70e6d2582.png)
 ![image (5)](https://user-images.githubusercontent.com/93064471/152471392-2ea7ce77-1e97-47f3-bcff-411201be3c1b.png)
