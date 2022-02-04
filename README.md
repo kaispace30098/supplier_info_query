@@ -13,6 +13,7 @@ For example, as a importer, the company doesn't control production end, Yet know
 Auto convert tool: https://erdplus.com/
 
 ![image (3)](https://user-images.githubusercontent.com/93064471/152471266-13d5db37-0dbf-4473-9e93-ee88262abbce.png)
+
 ![image (1)](https://user-images.githubusercontent.com/93064471/152471305-79dd8776-a319-4320-a3f8-dcc3ee3a2935.png)
 
 ## 3. Creating Schema and tables through SQLite3 Studio
@@ -23,5 +24,7 @@ Auto convert tool: https://erdplus.com/
 
 ## 5. Download ODBC driver and setup DSN for further analytics and visualization.
 Driver:http://www.ch-werner.de/sqliteodbc/
+
 ![image (6)](https://user-images.githubusercontent.com/93064471/152471380-01b14a0c-3a61-4b6b-8db3-47c70e6d2582.png)
+
 ![image (5)](https://user-images.githubusercontent.com/93064471/152471392-2ea7ce77-1e97-47f3-bcff-411201be3c1b.png)
